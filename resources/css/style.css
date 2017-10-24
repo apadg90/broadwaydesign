@@ -1,0 +1,15 @@
+html {
+	font-family: Helvetica;
+}
+.title {
+	background-image: url("../images/building.png");
+	text-align: center;
+	color: white;
+}
+.text {
+	font-size: 70px;
+	font-weight: Bold;
+}
+.hyperlinks {
+	font-size: 18px;
+}
