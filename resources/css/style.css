@@ -1,9 +1,9 @@
 html {
 	font-family: Helvetica;
+	text-align: center;
 }
 .title {
 	background-image: url("../images/building.png");
-	text-align: center;
 	color: white;
 }
 .text {
@@ -12,4 +12,53 @@ html {
 }
 .hyperlinks {
 	font-size: 18px;
+}
+.process {
+	font-size: 32px;
+}
+.identify h3 {
+	font-size: 23px;
+}
+.identify p {
+	font-size: 14px;
+}
+.understand h3{
+	font-size: 23px;
+}
+.understand p {
+	font-size: 14px;
+}
+.execute h3 {
+	font-size: 23px;
+}
+.execute p {
+	font-size: 14px;
+}
+.designed {
+	background-image: url("../images/building.png");
+	color: white;
+	font-size: 23px;
+}
+.portfolio h3 {
+	font-size: 23px;
+}
+.portfolio p {
+	font-size: 14px;
+}
+.team h3 {
+	font-size:23px;
+}
+.team p {
+	font-size: 14px;
+}
+.contact h3 {
+	font-size: 23px;
+}
+.contact p {
+	font-size: 14px;
+}
+.botleft {
+	text-align: left;
+	background-color: dimgray;
+	color: white;
 }
